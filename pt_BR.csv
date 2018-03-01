@@ -4692,11 +4692,12 @@ Comment,Comentar,module,Magento_Sales
 "Comment added","Comentário Adicionado",module,Magento_Sales
 "Transaction Data","Dados da Transação",module,Magento_Sales
 "Transaction ID","ID Transação",module,Magento_Sales
-"Parent Transaction ID","ID da Última Transação",module,Magento_Sales
+"Parent Transaction ID","ID da Transacção pai",module,Magento_Sales
 "Order ID","ID do Pedido",module,Magento_Sales
 "Transaction Type","Tipo de Transação",module,Magento_Sales
 "Is Closed","Está fechado",module,Magento_Sales
 "Created At","Criado em",module,Magento_Sales
+"Child Transactions","Transacções filhas",module,Magento_Sales
 "Transaction Details","Detalhes da transação",module,Magento_Sales
 Items,Itens,module,Magento_Sales
 "Gift Message for this Order","Mensagem de presente para este pedido",module,Magento_Sales
@@ -7500,17 +7501,37 @@ Create,Criar,module,Magento_Sales
 "Sales Emails Section","Seção de E-mail de vendas",module,Magento_Sales
 General,Geral,module,Magento_Sales
 "Hide Customer IP","Esconder IP do Cliente",module,Magento_Sales
+"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Escolher se o IP do cliente é exibido em Pedidos, Faturas, Envios e memos de créditos.",module,Magento_Sales
+"Checkout Totals Sort Order","Totais de checkout ordenados por pedido",module,Magento_Sales
 "Allow Reorder","Permitir Recompra",module,Magento_Sales
+"Logo for PDF Print-outs (200x50)","Logotipo para impressões PDF (200x50)",module,Magento_Sales
+"Logo for HTML Print View","Logotipo para impressão de visualização HTML",module,Magento_Sales
 Address,Endereço,module,Magento_Sales
-"Minimum Order Amount","Valor Mínimo de Encomenda",module,Magento_Sales
+"Minimum Order Amount","Quantidade de pedido mínimo",module,Magento_Sales
 Enable,Habilitado,module,Magento_Sales
 "Minimum Amount","Quantidade mínima",module,Magento_Sales
+"Subtotal after discount","Subtotal após desconto",module,Magento_Sales
 "Include Tax to Amount","Incluso o imposto sobre a quantidade",module,Magento_Sales
 "Description Message","Mensagem de descrição",module,Magento_Sales
+"This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","Esta mensagem será exibida no carrinho de compras quando o subtotal (após desconto) for menor que a quantia mínima permitida.",module,Magento_Sales
+"Error to Show in Shopping Cart","Erro a exibir no Carrinho de compras",module,Magento_Sales
+"Validate Each Address Separately in Multi-address Checkout","Valide cada endereço separadamente num checkout de endereços múltiplos",module,Magento_Sales
+"Multi-address Description Message","Multi-Endereço mensagem de descrição",module,Magento_Sales
+"We'll use the default description above if you leave this empty.","Usaremos a descrição padrão acima caso deixe isto vazio.",module,Magento_Sales
+"Multi-address Error to Show in Shopping Cart","Erro a exibir no Carrinho de compras Multi-Endereço",module,Magento_Sales
+"We'll use the default error above if you leave this empty.","Usaremos a mensagem padrão acima caso deixe este campo vazio.",module,Magento_Sales
 Dashboard,"Painel de Controle",module,Magento_Sales
+"Use Aggregated Data","Usar dados agregados",module,Magento_Sales
+"Orders Cron Settings","Configurações de pedidos do Cron",module,Magento_Sales
+"Pending Payment Order Lifetime (minutes)","Tempo de vida (minutos) de um pedido de pagamento",module,Magento_Sales
 "Sales Emails","E-mails de vendas",module,Magento_Sales
+"Asynchronous sending","Envio asincrono",module,Magento_Sales
 Enabled,Habilitado,module,Magento_Sales
+"New Order Confirmation Email Sender","E-mail de origem de confirmação de novos pedidos",module,Magento_Sales
+"New Order Confirmation Template","Template de confirmação de novos pedidos",module,Magento_Sales
 "Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo de e-mail escolhido baseado no tema ""fallback"" quando a opção ""Padrão"" é selecionada.",module,Magento_Sales
+"New Order Confirmation Template for Guest","Template para convidado para confirmação de pedido",module,Magento_Sales
+"Send Order Email Copy To","Enviar cópia de pedido para",module,Magento_Sales
 Comma-separated,"Separados por vírgula",module,Magento_Sales
 "Send Order Email Copy Method","Método de Envio da Cópia do E-mail de Pedido",module,Magento_Sales
 "Order Comment Email Sender","Remetente do Comentário do E-mail de Pedido",module,Magento_Sales
@@ -7520,6 +7541,10 @@ Comma-separated,"Separados por vírgula",module,Magento_Sales
 "Send Order Comments Email Copy Method","Método de Envio da Cópia do E-mail de Comentário de Pedido",module,Magento_Sales
 "Invoice Email Sender","Remetente do E-mail de Fatura",module,Magento_Sales
 "Invoice Email Template","Modelo do E-mail de Fatura",module,Magento_Sales
+"Invoice Email Template for Guest","Template de fatura para convidado",module,Magento_Sales
+"Send Invoice Email Copy To","Enviar cópia de fatura para",module,Magento_Sales
+"Send Invoice Email Copy Method","Método de cópia para envio de fatura de e-mail",module,Magento_Sales
+"Invoice Comment Email Sender","Comentário de origem para fatura",module,Magento_Sales
 Shipment,Envio,module,Magento_Sales
 "Shipment Comment Email Template for Guest","Modelo de e-mail de comentário de entrega para convidado",module,Magento_Sales
 "Send Shipment Comment Email Copy To","Envie Cópia de E-mail de Comentário de Entrega Para",module,Magento_Sales
