@@ -1,3 +1,9 @@
+# Looking for maintainer
+These [Magento2Translations](http://magento2translations.github.io/) packages are unmaintained. This means that from time to time we will run the sync and build from Crowdin. But we probably won't add Magento/Crowdin versions. If you would like to continue the work done here please send us a message.
+
+Have a look at all the other great community maintained packages at [e-conomix/magento-translations](https://github.com/e-conomix/magento-translations).
+Or [Mageplaza maintained packages](https://github.com/mageplaza?q=language).
+
 # Brazilian Portuguese (Brazilian Portuguese) Magento2 Language Pack (pt_BR)
 This is a Language Pack generated from the [official Magento2 translations project](https://crowdin.com/project/magento-2) at [Crowdin](https://crowdin.com).
 The Brazilian Portuguese (Brazilian Portuguese) translations used can be found [here](https://crowdin.com/project/magento-2/pt-BR).
@@ -7,9 +13,9 @@ For our other language packs look at the [Magento2Translations](http://magento2t
 
 # Version & progress
 This translation is generated from the branch [Head](https://crowdin.com/project/magento-2/pt-BR#/Head) at Crowdin and based on the Magento 2.2.0 sourcefiles.
-There have been  8007 strings translated of the 8763 strings in the Magento source.
+There have been  7607 strings translated of the 8763 strings in the Magento source.
 
-Translation progress:![Progress](http://progressed.io/bar/91)
+Translation progress:![Progress](http://progressed.io/bar/87)
 
 # Installation
 **Please select the git branch appropriate for your magento version from this repo.**
