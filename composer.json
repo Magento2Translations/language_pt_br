@@ -1,7 +1,7 @@
 {
   "name": "magento2translations/language_pt_br",
   "description": "Brazilian Portuguese (Brazilian Portuguese) Magento2 Language Pack (pt_BR) - From Magento2Translations",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "http://magento2translations.github.io/",
   "license": [
     "MIT"
