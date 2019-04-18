@@ -6632,9 +6632,21 @@ Debug,Depurar/Debug,module,Magento_Braintree
 "Verify for Applicable Countries","Verificar para países aplicáveis",module,Magento_Braintree
 "Verify for Specific Countries","Verificar para países específicos",module,Magento_Braintree
 "Dynamic Descriptors","Descritores Dinâmicos",module,Magento_Braintree
+"Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
+                            The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
+                            Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
+                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Descritores de dinâmicos são enviados por transação e definem o que vai aparecer nos extratos do cartão de crédito de seus clientes para uma compra específica.
+                            Quanto mais clara a descrição do seu produto, menor a chance dos clientes solicitarem chargebacks devido à confusão ou não-reconhecimento.
+                            Descritores dinâmicos não estão habilitados em todas as contas por padrão. Se você receber um erro de validação de 92203 ou se os descritores dinâmicos não estão exibindo como esperado,
+                            por favor contate o <a href=""mailto:support@getbraintree.com""> suporte Braintree</a>.",module,Magento_Braintree
 Name,Nome,module,Magento_Braintree
+"The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
+                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","O valor no campo nome do negócio da instrução do cliente. Seção de razão social/nome fantasia da empresa deve ser 3, 7 ou 12 caracteres
+                                e a descrição do produto pode ser até 18, 14 ou 9 caracteres respectivamente (com um * entre para um nome de descritor total de 22 caracteres).",module,Magento_Braintree
 Phone,Telefone,module,Magento_Braintree
+"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","O valor no campo número de telefone da fatura do cliente. O campo Telefone deve ter 10-14 caracteres e pode conter apenas números, traços, parênteses e ponto.",module,Magento_Braintree
 URL,Url,module,Magento_Braintree
+"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","O valor no campo de endereço web/URL da fatura do cliente. A URL deve ser 13 caracteres ou menos.",module,Magento_Braintree
 "CVV is required.","Código CVV é necessário.",module,Magento_Braintree
 "CVV must be 4 digits for American Express and 3 digits for other card types.","CVV deve ser de 4 dígitos para a American Express e 3 dígitos para outros tipos de cartão.",module,Magento_Braintree
 "Expiration date is required.","Data de validade é necessária.",module,Magento_Braintree
