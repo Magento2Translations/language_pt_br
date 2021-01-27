@@ -6013,7 +6013,7 @@ Delete,Excluir,module,Magento_GiftMessage
 "See our Shipping Policy","Veja Nossa Política de Entrega",module,Magento_Shipping
 "Sitemap generate Warnings","Mapa do site gerar avisos",module,Magento_Sitemap
 "Sitemap Generation Warnings","Avisos de geração de sitemap",module,Magento_Sitemap
-"%name,","%nome,",module,Magento_Theme
+"%name,","%name,",module,Magento_Theme
 "Welcome to %store_name.","Bem-vindo à %store_name.",module,Magento_Theme
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Para entrar no nosso site, use essas credenciais durante o checkout ou na página <a href=""%customer_url"">Minha Conta</a>:",module,Magento_Theme
 Password:,Senha:,module,Magento_Theme
